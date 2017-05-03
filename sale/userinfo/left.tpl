@@ -1,0 +1,1 @@
+<div class="sale-count-how">До скидки в <span>{next-discount}%</span> вам осталось <span>{remains}</span></div>

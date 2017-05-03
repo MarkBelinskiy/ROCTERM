@@ -1,0 +1,1 @@
+<blockquote>Ваша корзина пуста!</blockquote>
